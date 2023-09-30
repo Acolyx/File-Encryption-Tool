@@ -1,0 +1,12 @@
+D:\Kişisel\C# Projects\Encrypter\Encrypter\bin\Release\Encrypter.exe.config
+D:\Kişisel\C# Projects\Encrypter\Encrypter\bin\Release\Encrypter.exe
+D:\Kişisel\C# Projects\Encrypter\Encrypter\bin\Release\Encrypter.pdb
+D:\Kişisel\C# Projects\Encrypter\Encrypter\bin\Release\DotNetZip.xml
+D:\Kişisel\C# Projects\Encrypter\Encrypter\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.csproj.AssemblyReference.cache
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.csproj.SuggestedBindingRedirects.cache
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.csproj.CoreCompileInputs.cache
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.csproj.Fody.CopyLocal.cache
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.csproj.CopyComplete
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.exe
+D:\Kişisel\C# Projects\Encrypter\Encrypter\obj\Release\Encrypter.pdb
